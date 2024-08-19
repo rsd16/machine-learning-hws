@@ -1,0 +1,120 @@
+*.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 1031
+obj = -207.553894, rho = 0.117430
+nSV = 507, nBSV = 282
+*
+optimization finished, #iter = 293
+obj = -108.730110, rho = -1.635593
+nSV = 210, nBSV = 171
+*.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 1057
+obj = -205.452240, rho = 0.315169
+nSV = 503, nBSV = 264
+*.*
+optimization finished, #iter = 1428
+obj = -301.531299, rho = 0.746906
+nSV = 755, nBSV = 405
+*
+optimization finished, #iter = 721
+obj = -123.278119, rho = -0.311159
+nSV = 299, nBSV = 164
+.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 1627
+obj = -284.217612, rho = 0.883825
+nSV = 887, nBSV = 363
+*
+optimization finished, #iter = 412
+obj = -161.037374, rho = -3.251017
+nSV = 333, nBSV = 283
+.
+Warning: using -h 0 may be faster
+*.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 2366
+obj = -605.427592, rho = 0.028544
+nSV = 1321, nBSV = 858
+......
+Warning: using -h 0 may be faster
+*..
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 8053
+obj = -4893.318207, rho = 0.515292
+nSV = 6908, nBSV = 6068
+..
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 2575
+obj = -1251.382453, rho = -1.577733
+nSV = 2126, nBSV = 1769
+.
+Warning: using -h 0 may be faster
+*.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 2504
+obj = -799.711331, rho = 1.037201
+nSV = 1599, nBSV = 1041
+*
+optimization finished, #iter = 561
+obj = -244.056916, rho = 3.819177
+nSV = 459, nBSV = 415
+*
+optimization finished, #iter = 622
+obj = -360.939102, rho = 4.600986
+nSV = 655, nBSV = 613
+*
+optimization finished, #iter = 375
+obj = -140.223097, rho = 1.133505
+nSV = 276, nBSV = 246
+*
+optimization finished, #iter = 437
+obj = -219.400800, rho = 6.510387
+nSV = 396, nBSV = 338
+..
+Warning: using -h 0 may be faster
+*.*
+optimization finished, #iter = 3508
+obj = -1333.114015, rho = 0.805345
+nSV = 2351, nBSV = 1900
+.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 1455
+obj = -319.458760, rho = -0.751726
+nSV = 724, nBSV = 459
+.
+Warning: using -h 0 may be faster
+*.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 2599
+obj = -818.052759, rho = 1.056803
+nSV = 1630, nBSV = 1104
+..
+Warning: using -h 0 may be faster
+*.*
+optimization finished, #iter = 3302
+obj = -1270.139226, rho = -2.065875
+nSV = 2118, nBSV = 1802
+..
+Warning: using -h 0 may be faster
+*..*
+optimization finished, #iter = 4217
+obj = -1309.854246, rho = 0.440034
+nSV = 2527, nBSV = 1559
+.
+Warning: using -h 0 may be faster
+*
+optimization finished, #iter = 1535
+obj = -444.987349, rho = 1.860214
+nSV = 895, nBSV = 622
+Total nSV = 16456
+[LibSVM]

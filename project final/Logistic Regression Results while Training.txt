@@ -1,0 +1,2858 @@
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         2527     M =           10
+ This problem is unconstrained.
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.45185D+05    |proj g|=  2.28865D+04
+
+
+ITERATION     1
+
+---------------- CAUCHY entered-------------------
+ There are            0   breakpoints
+
+ GCP found in this segment
+Piece      1 --f1, f2 at start point  -1.3896D+11  1.3896D+11
+Distance to the stationary point =   1.0000D+00
+
+---------------- exit CAUCHY----------------------
+
+        2527  variables are free at GCP            1
+ LINE SEARCH           1  times; norm of step =   0.27994087601471951
+
+At iterate    1    f=  2.15879D+05    |proj g|=  2.05743D+04
+
+
+ITERATION     2
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.11480105828168148
+
+At iterate    2    f=  1.99142D+05    |proj g|=  1.65804D+04
+
+
+ITERATION     3
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.0939856290578005E-002
+
+At iterate    3    f=  1.89660D+05    |proj g|=  1.09268D+04
+
+
+ITERATION     4
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23244929606518613
+
+At iterate    4    f=  1.75535D+05    |proj g|=  1.29467D+04
+
+
+ITERATION     5
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.11666086771376875
+
+At iterate    5    f=  1.64785D+05    |proj g|=  8.21045D+03
+
+
+ITERATION     6
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.24125159865301737
+
+At iterate    6    f=  1.53014D+05    |proj g|=  8.11079D+03
+
+
+ITERATION     7
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.48370509506511483
+
+At iterate    7    f=  1.34064D+05    |proj g|=  5.84247D+03
+
+
+ITERATION     8
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.70844500048623793
+
+At iterate    8    f=  1.21766D+05    |proj g|=  6.50825D+03
+
+
+ITERATION     9
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.36187210002977799
+
+At iterate    9    f=  1.14876D+05    |proj g|=  4.76063D+03
+
+
+ITERATION    10
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19337855158075851
+
+At iterate   10    f=  1.11832D+05    |proj g|=  4.18391D+03
+
+
+ITERATION    11
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.28375286250494847
+
+At iterate   11    f=  1.08120D+05    |proj g|=  3.19803D+03
+
+
+ITERATION    12
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.31782055237260859
+
+At iterate   12    f=  1.04016D+05    |proj g|=  2.86929D+03
+
+
+ITERATION    13
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.43208985281787937
+
+At iterate   13    f=  1.00611D+05    |proj g|=  3.11624D+03
+
+
+ITERATION    14
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14125221067367857
+
+At iterate   14    f=  9.79298D+04    |proj g|=  3.30069D+03
+
+
+ITERATION    15
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.12823778871155347
+
+At iterate   15    f=  9.60533D+04    |proj g|=  3.18606D+03
+
+
+ITERATION    16
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19120117600663139
+
+At iterate   16    f=  9.48717D+04    |proj g|=  3.25471D+03
+
+
+ITERATION    17
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.18523648839386075
+
+At iterate   17    f=  9.34147D+04    |proj g|=  2.54508D+03
+
+
+ITERATION    18
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13889041830826865
+
+At iterate   18    f=  9.25149D+04    |proj g|=  2.21795D+03
+
+
+ITERATION    19
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.37228569630072450
+
+At iterate   19    f=  9.02223D+04    |proj g|=  2.56081D+03
+
+
+ITERATION    20
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.34088111617575423
+
+At iterate   20    f=  8.88491D+04    |proj g|=  2.32030D+03
+
+
+ITERATION    21
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.26216052998105349
+
+At iterate   21    f=  8.73404D+04    |proj g|=  2.31179D+03
+
+
+ITERATION    22
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.24704988577407686
+
+At iterate   22    f=  8.58576D+04    |proj g|=  2.49239D+03
+
+
+ITERATION    23
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.38613968965327533
+
+At iterate   23    f=  8.40911D+04    |proj g|=  2.05771D+03
+
+
+ITERATION    24
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.56883226851795088
+
+At iterate   24    f=  8.32460D+04    |proj g|=  2.59373D+03
+
+
+ITERATION    25
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.6295833170581426E-002
+
+At iterate   25    f=  8.20646D+04    |proj g|=  2.31901D+03
+
+
+ITERATION    26
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.2438032580250986E-002
+
+At iterate   26    f=  8.13351D+04    |proj g|=  1.99855D+03
+
+
+ITERATION    27
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13443696589903376
+
+At iterate   27    f=  8.06476D+04    |proj g|=  1.69753D+03
+
+
+ITERATION    28
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.38095996285892469
+
+At iterate   28    f=  7.89721D+04    |proj g|=  1.38194D+03
+
+
+ITERATION    29
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.26827323115231522
+
+At iterate   29    f=  7.85561D+04    |proj g|=  1.98149D+03
+
+
+ITERATION    30
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.36379743228397737
+
+At iterate   30    f=  7.74373D+04    |proj g|=  1.13462D+03
+
+
+ITERATION    31
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.26846068037440601
+
+At iterate   31    f=  7.66529D+04    |proj g|=  1.29092D+03
+
+
+ITERATION    32
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.36600957501464537
+
+At iterate   32    f=  7.56510D+04    |proj g|=  1.32377D+03
+
+
+ITERATION    33
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.37460290983022504
+
+At iterate   33    f=  7.45312D+04    |proj g|=  1.44539D+03
+
+
+ITERATION    34
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.41734667808707232
+
+At iterate   34    f=  7.37423D+04    |proj g|=  1.45066D+03
+
+
+ITERATION    35
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.24577074416118933
+
+At iterate   35    f=  7.27230D+04    |proj g|=  1.10980D+03
+
+
+ITERATION    36
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.17862920788465811
+
+At iterate   36    f=  7.18905D+04    |proj g|=  9.30876D+02
+
+
+ITERATION    37
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.24793854404522950
+
+At iterate   37    f=  7.13491D+04    |proj g|=  1.40143D+03
+
+
+ITERATION    38
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22580339307933783
+
+At iterate   38    f=  7.07315D+04    |proj g|=  1.29178D+03
+
+
+ITERATION    39
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.8231492338438932E-002
+
+At iterate   39    f=  7.03978D+04    |proj g|=  9.42068D+02
+
+
+ITERATION    40
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.21835969510044823
+
+At iterate   40    f=  6.97352D+04    |proj g|=  1.09472D+03
+
+
+ITERATION    41
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.25409776061548700
+
+At iterate   41    f=  6.93622D+04    |proj g|=  9.53572D+02
+
+
+ITERATION    42
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19770627388123033
+
+At iterate   42    f=  6.89960D+04    |proj g|=  9.06327D+02
+
+
+ITERATION    43
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.45479713842271263
+
+At iterate   43    f=  6.89199D+04    |proj g|=  2.10706D+03
+
+
+ITERATION    44
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.1525542874454571E-002
+
+At iterate   44    f=  6.79831D+04    |proj g|=  1.00564D+03
+
+
+ITERATION    45
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.0722444803214380E-002
+
+At iterate   45    f=  6.77536D+04    |proj g|=  7.76602D+02
+
+
+ITERATION    46
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.12717965706429415
+
+At iterate   46    f=  6.72485D+04    |proj g|=  8.61917D+02
+
+
+ITERATION    47
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.18910282643239620
+
+At iterate   47    f=  6.67611D+04    |proj g|=  9.77383D+02
+
+
+ITERATION    48
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.52551143227507358
+
+At iterate   48    f=  6.60507D+04    |proj g|=  1.26169D+03
+
+
+ITERATION    49
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.42738663065668919
+
+At iterate   49    f=  6.56001D+04    |proj g|=  1.20344D+03
+
+
+ITERATION    50
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.7937861345674805E-002
+
+At iterate   50    f=  6.52409D+04    |proj g|=  8.15096D+02
+
+
+ITERATION    51
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.6843983748250310E-002
+
+At iterate   51    f=  6.50696D+04    |proj g|=  8.60227D+02
+
+
+ITERATION    52
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.18509051028650586
+
+At iterate   52    f=  6.47955D+04    |proj g|=  8.41891D+02
+
+
+ITERATION    53
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.32024269642983777
+
+At iterate   53    f=  6.47043D+04    |proj g|=  1.44723D+03
+
+
+ITERATION    54
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10176357624326957
+
+At iterate   54    f=  6.43016D+04    |proj g|=  6.33901D+02
+
+
+ITERATION    55
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    6.6855254025174740E-002
+
+At iterate   55    f=  6.41553D+04    |proj g|=  5.67720D+02
+
+
+ITERATION    56
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14397671009972329
+
+At iterate   56    f=  6.39453D+04    |proj g|=  6.73184D+02
+
+
+ITERATION    57
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23572861746288709
+
+At iterate   57    f=  6.35986D+04    |proj g|=  7.32512D+02
+
+
+ITERATION    58
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.29819951095959607
+
+At iterate   58    f=  6.33478D+04    |proj g|=  1.08675D+03
+
+
+ITERATION    59
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22168361775169679
+
+At iterate   59    f=  6.30571D+04    |proj g|=  5.91805D+02
+
+
+ITERATION    60
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13001907717775227
+
+At iterate   60    f=  6.28967D+04    |proj g|=  4.85543D+02
+
+
+ITERATION    61
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14015396832644048
+
+At iterate   61    f=  6.27204D+04    |proj g|=  5.24952D+02
+
+
+ITERATION    62
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23609488998009875
+
+At iterate   62    f=  6.25023D+04    |proj g|=  6.58141D+02
+
+
+ITERATION    63
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.34759305843969557
+
+At iterate   63    f=  6.23107D+04    |proj g|=  7.52058D+02
+
+
+ITERATION    64
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.2937808980597248E-002
+
+At iterate   64    f=  6.21385D+04    |proj g|=  5.11401D+02
+
+
+ITERATION    65
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.4164367505379886E-002
+
+At iterate   65    f=  6.19795D+04    |proj g|=  4.47561D+02
+
+
+ITERATION    66
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.1073995132067584E-002
+
+At iterate   66    f=  6.18515D+04    |proj g|=  5.69283D+02
+
+
+ITERATION    67
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.57718373254859801
+
+At iterate   67    f=  6.17697D+04    |proj g|=  1.87263D+03
+
+
+ITERATION    68
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.3524104447243443E-002
+
+At iterate   68    f=  6.13526D+04    |proj g|=  9.03780D+02
+
+
+ITERATION    69
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.1660462517186292E-002
+
+At iterate   69    f=  6.12110D+04    |proj g|=  6.86635D+02
+
+
+ITERATION    70
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.21363402857860403
+
+At iterate   70    f=  6.10431D+04    |proj g|=  5.25417D+02
+
+
+ITERATION    71
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.24747108004738452
+
+At iterate   71    f=  6.08131D+04    |proj g|=  5.53119D+02
+
+
+ITERATION    72
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.67618476835970209
+
+At iterate   72    f=  6.07496D+04    |proj g|=  1.78618D+03
+
+
+ITERATION    73
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.0687758306249607E-002
+
+At iterate   73    f=  6.02768D+04    |proj g|=  7.64229D+02
+
+
+ITERATION    74
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.8925525083010393E-002
+
+At iterate   74    f=  6.01451D+04    |proj g|=  9.01740D+02
+
+
+ITERATION    75
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.20914073377969550
+
+At iterate   75    f=  5.98616D+04    |proj g|=  1.09075D+03
+
+
+ITERATION    76
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.35204255629306996
+
+At iterate   76    f=  5.95197D+04    |proj g|=  1.10474D+03
+
+
+ITERATION    77
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.20796280343520610
+
+At iterate   77    f=  5.94002D+04    |proj g|=  1.07486D+03
+
+
+ITERATION    78
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.31973828650096431
+
+At iterate   78    f=  5.92079D+04    |proj g|=  9.01117D+02
+
+
+ITERATION    79
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19576503338377249
+
+At iterate   79    f=  5.90818D+04    |proj g|=  7.81595D+02
+
+
+ITERATION    80
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.45605956093336220
+
+At iterate   80    f=  5.88398D+04    |proj g|=  8.74937D+02
+
+
+ITERATION    81
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.46393132864135811
+
+At iterate   81    f=  5.86521D+04    |proj g|=  8.00446D+02
+
+
+ITERATION    82
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.4884133950015941E-002
+
+At iterate   82    f=  5.85224D+04    |proj g|=  7.51856D+02
+
+
+ITERATION    83
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.9182737035558243E-002
+
+At iterate   83    f=  5.83979D+04    |proj g|=  7.75429D+02
+
+
+ITERATION    84
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13695532271340763
+
+At iterate   84    f=  5.82765D+04    |proj g|=  7.59931D+02
+
+
+ITERATION    85
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.67255458897072484
+
+At iterate   85    f=  5.80295D+04    |proj g|=  1.15061D+03
+
+
+ITERATION    86
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.31385401814167574
+
+At iterate   86    f=  5.78255D+04    |proj g|=  6.74992D+02
+
+
+ITERATION    87
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10310509566967144
+
+At iterate   87    f=  5.77080D+04    |proj g|=  5.00727D+02
+
+
+ITERATION    88
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14673708425977922
+
+At iterate   88    f=  5.75858D+04    |proj g|=  4.08516D+02
+
+
+ITERATION    89
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.35799035940807511
+
+At iterate   89    f=  5.74322D+04    |proj g|=  4.66774D+02
+
+
+ITERATION    90
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.61548497567393845
+
+At iterate   90    f=  5.72953D+04    |proj g|=  1.08183D+03
+
+
+ITERATION    91
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.0742696581451106E-002
+
+At iterate   91    f=  5.70924D+04    |proj g|=  5.64332D+02
+
+
+ITERATION    92
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.0675058555416448E-002
+
+At iterate   92    f=  5.69764D+04    |proj g|=  6.51744D+02
+
+
+ITERATION    93
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.8337788057975634E-002
+
+At iterate   93    f=  5.68928D+04    |proj g|=  6.72914D+02
+
+
+ITERATION    94
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.53597750699416580
+
+At iterate   94    f=  5.67664D+04    |proj g|=  1.02152D+03
+
+
+ITERATION    95
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.15055611389542034
+
+At iterate   95    f=  5.65755D+04    |proj g|=  4.21754D+02
+
+
+ITERATION    96
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.2869403933835861E-002
+
+At iterate   96    f=  5.65135D+04    |proj g|=  3.74861D+02
+
+
+ITERATION    97
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14534505104524881
+
+At iterate   97    f=  5.63942D+04    |proj g|=  3.00220D+02
+
+
+ITERATION    98
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.27550492542088900
+
+At iterate   98    f=  5.62774D+04    |proj g|=  5.57651D+02
+
+
+ITERATION    99
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22727925544013747
+
+At iterate   99    f=  5.61688D+04    |proj g|=  4.60422D+02
+
+
+ITERATION   100
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.0822047007719592E-002
+
+At iterate  100    f=  5.60754D+04    |proj g|=  3.55181D+02
+
+
+ITERATION   101
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19604118627173728
+
+At iterate  101    f=  5.59250D+04    |proj g|=  3.38870D+02
+
+
+ITERATION   102
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.16521055603651161
+
+At iterate  102    f=  5.58115D+04    |proj g|=  3.26917D+02
+
+
+ITERATION   103
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.48353358679411823
+
+At iterate  103    f=  5.57382D+04    |proj g|=  6.52002D+02
+
+
+ITERATION   104
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.3782853730501793E-002
+
+At iterate  104    f=  5.55854D+04    |proj g|=  5.79044D+02
+
+
+ITERATION   105
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.3741392332714206E-002
+
+At iterate  105    f=  5.55208D+04    |proj g|=  3.16988D+02
+
+
+ITERATION   106
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.7702261247261074E-002
+
+At iterate  106    f=  5.54540D+04    |proj g|=  3.12641D+02
+
+
+ITERATION   107
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14155410449999606
+
+At iterate  107    f=  5.53362D+04    |proj g|=  4.81544D+02
+
+
+ITERATION   108
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.29795366686410035
+
+At iterate  108    f=  5.52199D+04    |proj g|=  5.96696D+02
+
+
+ITERATION   109
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22616620301752380
+
+At iterate  109    f=  5.51156D+04    |proj g|=  3.47381D+02
+
+
+ITERATION   110
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.0486792321141753E-002
+
+At iterate  110    f=  5.50670D+04    |proj g|=  3.04081D+02
+
+
+ITERATION   111
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.2512181310079721E-002
+
+At iterate  111    f=  5.50021D+04    |proj g|=  3.24819D+02
+
+
+ITERATION   112
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.4958676499361424E-002
+
+At iterate  112    f=  5.49254D+04    |proj g|=  4.08454D+02
+
+
+ITERATION   113
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.28428869969225046
+
+At iterate  113    f=  5.48327D+04    |proj g|=  6.18219D+02
+
+
+ITERATION   114
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10381609689944646
+
+At iterate  114    f=  5.47065D+04    |proj g|=  4.28437D+02
+
+
+ITERATION   115
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.0827057069981805E-002
+
+At iterate  115    f=  5.46529D+04    |proj g|=  2.93338D+02
+
+
+ITERATION   116
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.1810467466546313E-002
+
+At iterate  116    f=  5.45886D+04    |proj g|=  2.79134D+02
+
+
+ITERATION   117
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13600446590149023
+
+At iterate  117    f=  5.45064D+04    |proj g|=  4.01046D+02
+
+
+ITERATION   118
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22037748750263078
+
+At iterate  118    f=  5.44515D+04    |proj g|=  5.47684D+02
+
+
+ITERATION   119
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.7361047624933514E-002
+
+At iterate  119    f=  5.43503D+04    |proj g|=  3.19539D+02
+
+
+ITERATION   120
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.2116395509309489E-002
+
+At iterate  120    f=  5.43081D+04    |proj g|=  2.71661D+02
+
+
+ITERATION   121
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.0549074386443750E-002
+
+At iterate  121    f=  5.42555D+04    |proj g|=  4.29320D+02
+
+
+ITERATION   122
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    6.5616900316826904E-002
+
+At iterate  122    f=  5.41948D+04    |proj g|=  3.22542D+02
+
+
+ITERATION   123
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10232028439507163
+
+At iterate  123    f=  5.41297D+04    |proj g|=  3.50851D+02
+
+
+ITERATION   124
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.0989348728682556E-002
+
+At iterate  124    f=  5.40652D+04    |proj g|=  3.11385D+02
+
+
+ITERATION   125
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.13630880667631626
+
+At iterate  125    f=  5.40081D+04    |proj g|=  4.45460D+02
+
+
+ITERATION   126
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19855421538947307
+
+At iterate  126    f=  5.38993D+04    |proj g|=  3.64494D+02
+
+
+ITERATION   127
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.16654535110401422
+
+At iterate  127    f=  5.38167D+04    |proj g|=  3.98350D+02
+
+
+ITERATION   128
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.32922947330446384
+
+At iterate  128    f=  5.37295D+04    |proj g|=  4.91623D+02
+
+
+ITERATION   129
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10106938998648687
+
+At iterate  129    f=  5.36618D+04    |proj g|=  2.92134D+02
+
+
+ITERATION   130
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    6.1080060495450297E-002
+
+At iterate  130    f=  5.36201D+04    |proj g|=  2.75333D+02
+
+
+ITERATION   131
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10136880579118321
+
+At iterate  131    f=  5.35680D+04    |proj g|=  2.88596D+02
+
+
+ITERATION   132
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.25612193137984124
+
+At iterate  132    f=  5.34557D+04    |proj g|=  3.50935D+02
+
+
+ITERATION   133
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.21063891712739855
+
+At iterate  133    f=  5.34023D+04    |proj g|=  3.78933D+02
+
+
+ITERATION   134
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23687802519390949
+
+At iterate  134    f=  5.33244D+04    |proj g|=  2.41206D+02
+
+
+ITERATION   135
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.11226067773547288
+
+At iterate  135    f=  5.32832D+04    |proj g|=  4.02727D+02
+
+
+ITERATION   136
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.8274524639291003E-002
+
+At iterate  136    f=  5.32397D+04    |proj g|=  3.34107D+02
+
+
+ITERATION   137
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.11839778616164551
+
+At iterate  137    f=  5.31709D+04    |proj g|=  2.97187D+02
+
+
+ITERATION   138
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.16441202325948168
+
+At iterate  138    f=  5.31002D+04    |proj g|=  3.88441D+02
+
+
+ITERATION   139
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23013273810090618
+
+At iterate  139    f=  5.30495D+04    |proj g|=  4.39862D+02
+
+
+ITERATION   140
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    1.4905021559407391E-002
+
+At iterate  140    f=  5.30025D+04    |proj g|=  3.10544D+02
+
+
+ITERATION   141
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.2261317524769561E-002
+
+At iterate  141    f=  5.29675D+04    |proj g|=  2.70067D+02
+
+
+ITERATION   142
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.3276650989425735E-002
+
+At iterate  142    f=  5.29357D+04    |proj g|=  4.96778D+02
+
+
+ITERATION   143
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.7893623821174924E-002
+
+At iterate  143    f=  5.28863D+04    |proj g|=  3.63471D+02
+
+
+ITERATION   144
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23634431786995069
+
+At iterate  144    f=  5.28096D+04    |proj g|=  2.85334D+02
+
+
+ITERATION   145
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10216237627590027
+
+At iterate  145    f=  5.27776D+04    |proj g|=  2.93967D+02
+
+
+ITERATION   146
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.23620993799998588
+
+At iterate  146    f=  5.26903D+04    |proj g|=  2.97105D+02
+
+
+ITERATION   147
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.10596800966387512
+
+At iterate  147    f=  5.26627D+04    |proj g|=  5.44442D+02
+
+
+ITERATION   148
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13983074143132446
+
+At iterate  148    f=  5.26129D+04    |proj g|=  3.86326D+02
+
+
+ITERATION   149
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.4026653667184106E-002
+
+At iterate  149    f=  5.25764D+04    |proj g|=  3.18003D+02
+
+
+ITERATION   150
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.21017154164052954
+
+At iterate  150    f=  5.25093D+04    |proj g|=  2.93998D+02
+
+
+ITERATION   151
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.25772344172422595
+
+At iterate  151    f=  5.24933D+04    |proj g|=  3.95651D+02
+
+
+ITERATION   152
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    1.4337338644166323E-002
+
+At iterate  152    f=  5.24325D+04    |proj g|=  2.85560D+02
+
+
+ITERATION   153
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.2487840959510505E-002
+
+At iterate  153    f=  5.24034D+04    |proj g|=  2.44423D+02
+
+
+ITERATION   154
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10998034326968635
+
+At iterate  154    f=  5.23654D+04    |proj g|=  2.79791D+02
+
+
+ITERATION   155
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.18239233243551031
+
+At iterate  155    f=  5.23252D+04    |proj g|=  3.26257D+02
+
+
+ITERATION   156
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.33782906516027161
+
+At iterate  156    f=  5.22878D+04    |proj g|=  4.40894D+02
+
+
+ITERATION   157
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.0860031545224107E-002
+
+At iterate  157    f=  5.22526D+04    |proj g|=  2.36526D+02
+
+
+ITERATION   158
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.1668242128458438E-002
+
+At iterate  158    f=  5.22216D+04    |proj g|=  2.21124D+02
+
+
+ITERATION   159
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.6978592252996153E-002
+
+At iterate  159    f=  5.21998D+04    |proj g|=  2.15499D+02
+
+
+ITERATION   160
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.16361218235309244
+
+At iterate  160    f=  5.21477D+04    |proj g|=  4.26062D+02
+
+
+ITERATION   161
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22191336391098176
+
+At iterate  161    f=  5.21166D+04    |proj g|=  3.70256D+02
+
+
+ITERATION   162
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    2.8658948026112612E-002
+
+At iterate  162    f=  5.20867D+04    |proj g|=  2.31255D+02
+
+
+ITERATION   163
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    2.1575366309639646E-002
+
+At iterate  163    f=  5.20663D+04    |proj g|=  2.16456D+02
+
+
+ITERATION   164
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.6240117319403097E-002
+
+At iterate  164    f=  5.20343D+04    |proj g|=  2.37097D+02
+
+
+ITERATION   165
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19564475361656147
+
+At iterate  165    f=  5.19788D+04    |proj g|=  3.19474D+02
+
+
+ITERATION   166
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.26772777328194436
+
+At iterate  166    f=  5.19328D+04    |proj g|=  3.50439D+02
+
+
+ITERATION   167
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.5052181943122082E-002
+
+At iterate  167    f=  5.18890D+04    |proj g|=  2.21756D+02
+
+
+ITERATION   168
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.8540141058644364E-002
+
+At iterate  168    f=  5.18520D+04    |proj g|=  1.93642D+02
+
+
+ITERATION   169
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.6801053358078384E-002
+
+At iterate  169    f=  5.18234D+04    |proj g|=  2.15202D+02
+
+
+ITERATION   170
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.28958265681143808
+
+At iterate  170    f=  5.18011D+04    |proj g|=  5.40607D+02
+
+
+ITERATION   171
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    2.3734883506368893E-002
+
+At iterate  171    f=  5.17339D+04    |proj g|=  2.15004D+02
+
+
+ITERATION   172
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.6682732127310409E-003
+
+At iterate  172    f=  5.17189D+04    |proj g|=  2.11793D+02
+
+
+ITERATION   173
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10223936840508362
+
+At iterate  173    f=  5.16706D+04    |proj g|=  2.36851D+02
+
+
+ITERATION   174
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19837730291937464
+
+At iterate  174    f=  5.16052D+04    |proj g|=  3.11360D+02
+
+
+ITERATION   175
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.22525630661759710
+
+At iterate  175    f=  5.15624D+04    |proj g|=  3.08290D+02
+
+
+ITERATION   176
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    2.0978358292991838E-002
+
+At iterate  176    f=  5.15257D+04    |proj g|=  1.83538D+02
+
+
+ITERATION   177
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    1.9921114817162744E-002
+
+At iterate  177    f=  5.15031D+04    |proj g|=  2.28968D+02
+
+
+ITERATION   178
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.7528177229755875E-002
+
+At iterate  178    f=  5.14651D+04    |proj g|=  2.43756D+02
+
+
+ITERATION   179
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.19643646685975635
+
+At iterate  179    f=  5.14341D+04    |proj g|=  3.74647D+02
+
+
+ITERATION   180
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    6.9065190042337757E-002
+
+At iterate  180    f=  5.13810D+04    |proj g|=  2.35491D+02
+
+
+ITERATION   181
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.0275822641759530E-002
+
+At iterate  181    f=  5.13593D+04    |proj g|=  2.51562D+02
+
+
+ITERATION   182
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.2160760722893370E-002
+
+At iterate  182    f=  5.13267D+04    |proj g|=  2.68314D+02
+
+
+ITERATION   183
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.15898483554018436
+
+At iterate  183    f=  5.12738D+04    |proj g|=  2.25612D+02
+
+
+ITERATION   184
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14186177942643824
+
+At iterate  184    f=  5.12432D+04    |proj g|=  3.48775D+02
+
+
+ITERATION   185
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.3408541693175812E-002
+
+At iterate  185    f=  5.12165D+04    |proj g|=  1.91244D+02
+
+
+ITERATION   186
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    1.4331150683474894E-002
+
+At iterate  186    f=  5.12033D+04    |proj g|=  1.72993D+02
+
+
+ITERATION   187
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    6.9832510312923743E-002
+
+At iterate  187    f=  5.11645D+04    |proj g|=  2.25695D+02
+
+
+ITERATION   188
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.14483889927747776
+
+At iterate  188    f=  5.11421D+04    |proj g|=  2.65656D+02
+
+
+ITERATION   189
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    4.1991877638325251E-002
+
+At iterate  189    f=  5.11162D+04    |proj g|=  1.80220D+02
+
+
+ITERATION   190
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    7.6213313893478712E-002
+
+At iterate  190    f=  5.10990D+04    |proj g|=  1.82782D+02
+
+
+ITERATION   191
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    8.2792853095079819E-002
+
+At iterate  191    f=  5.10793D+04    |proj g|=  2.35426D+02
+
+
+ITERATION   192
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.18446730335190012
+
+At iterate  192    f=  5.10306D+04    |proj g|=  2.67910D+02
+
+
+ITERATION   193
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           1  times; norm of step =   0.12573940723274632
+
+At iterate  193    f=  5.10078D+04    |proj g|=  3.54829D+02
+
+
+ITERATION   194
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.18856981649436844
+
+At iterate  194    f=  5.09632D+04    |proj g|=  2.27279D+02
+
+
+ITERATION   195
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    9.1229783341912188E-002
+
+At iterate  195    f=  5.09360D+04    |proj g|=  2.34978D+02
+
+
+ITERATION   196
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.11103603246280541
+
+At iterate  196    f=  5.09102D+04    |proj g|=  2.27468D+02
+
+
+ITERATION   197
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    5.3876145140668290E-002
+
+At iterate  197    f=  5.08884D+04    |proj g|=  2.51979D+02
+
+
+ITERATION   198
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =    3.0303194479114448E-002
+
+At iterate  198    f=  5.08687D+04    |proj g|=  1.66745D+02
+
+
+ITERATION   199
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.13114137661331160
+
+At iterate  199    f=  5.08397D+04    |proj g|=  1.88013D+02
+
+
+ITERATION   200
+
+----------------SUBSM entered-----------------
+
+
+----------------exit SUBSM --------------------
+
+ LINE SEARCH           0  times; norm of step =   0.10675185998296506
+
+At iterate  200    f=  5.08180D+04    |proj g|=  2.20484D+02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 2527    200    210      1     0     0   2.205D+02   5.082D+04
+
+ X =  3.6995D-01  2.0165D-01  8.7558D-02 -2.2572D-02 -3.0108D-02  1.1366D-02
+      1.8388D-02  1.3223D-02  4.7058D-02  1.3265D-01  1.9060D-01  1.3715D-01
+      9.1909D-02  3.3513D-02  3.2086D-02 -1.4736D-02  1.3477D-03  2.4149D-02
+      8.0387D-02  1.5031D-01  1.4746D-01  5.6925D-02 -1.1874D-01 -1.1109D-01
+     -3.4512D-02  5.8831D-02  6.4002D-02 -5.7846D-03 -5.4293D-02 -1.0027D-01
+     -6.8490D-02 -4.6508D-02 -6.2430D-02 -1.1737D-02  4.8382D-02  6.5579D-02
+      2.9948D-02 -1.9272D-02 -9.7632D-02 -6.7838D-02 -1.1668D-02  3.7497D-02
+      7.8060D-02  3.1009D-02 -1.4190D-02  1.0785D-02  1.9404D-03  1.9126D-02
+      4.7218D-03 -4.6724D-02 -1.0233D-01 -1.3118D-01 -8.5208D-02 -6.9274D-03
+      6.9844D-02  1.1732D-01  1.5750D-01  1.4394D-01  1.3765D-01  3.6954D-03
+     -9.1987D-02 -1.3761D-01 -1.0181D-01 -3.9354D-02 -1.9945D-03  1.8197D-02
+      3.0966D-02  1.6092D-02  1.9027D-02  3.9892D-02  8.9271D-02  1.0096D-01
+      8.9649D-02  7.4709D-02  6.0326D-02 -3.5587D-02 -1.9519D-02 -5.3148D-02
+     -6.3718D-02 -4.4845D-02 -2.6378D-02  1.5097D-02 -2.2303D-03  6.8641D-02
+      8.8481D-03  1.2352D-02 -1.8130D-02 -3.4735D-02  3.9062D-02  1.4125D-01
+      1.5410D-01  1.7466D-01  6.3301D-02 -4.6417D-02 -2.6455D-02 -3.5746D-02
+     -4.0847D-02 -7.1683D-02 -6.9223D-02 -3.7680D-02  4.0928D-02 -1.6451D-03
+     -1.3028D-01 -2.7311D-01 -1.9861D-01 -1.6533D-01 -1.0963D-01 -1.4454D-02
+     -2.1934D-02  3.4212D-03  2.4208D-02  2.0987D-02  7.3815D-02  8.3058D-02
+      3.3965D-02  4.6987D-02  2.2829D-02 -2.6181D-02 -5.2515D-02 -1.2391D-01
+     -1.2152D-01 -8.1140D-02 -6.4005D-02 -4.3458D-02 -7.2053D-02 -8.1023D-02
+     -1.2269D-01 -7.2176D-02 -5.0031D-02 -1.3126D-01 -1.0331D-01 -6.4776D-02
+     -9.3507D-02 -9.6995D-02 -8.1763D-02 -4.1537D-02  1.3381D-01  3.5509D-02
+     -8.7251D-02 -1.4758D-01 -1.7328D-01 -1.6833D-01 -1.1083D-01 -4.2790D-02
+      7.5429D-02  1.3236D-01  1.5441D-01  3.7886D-01  7.0304D-01  8.2403D-01
+      4.3380D-01 -9.2488D-02 -6.1317D-01 -7.5082D-01 -6.7333D-01 -4.7973D-01
+     -1.1704D-01  4.0514D-01  8.9401D-01  1.1710D+00  1.0046D+00  5.4741D-01
+      3.7971D-02 -3.8943D-01 -8.3284D-01 -1.2585D+00 -1.5311D+00 -1.3665D+00
+     -5.6362D-01  7.1852D-01  1.8882D+00  2.0999D+00  1.2149D+00 -2.1915D-01
+     -1.2558D+00 -1.6621D+00 -1.3665D+00  1.5662D-01  2.7628D+00  4.0492D+00
+      2.2179D+00 -1.2343D+00 -3.4449D+00 -3.4251D+00 -2.0884D+00 -7.0386D-01
+      1.5185D-01  5.3202D-01  7.3230D-01  7.8690D-01  7.5178D-01  6.8911D-01
+      6.3286D-01  5.2957D-01  3.6188D-01  1.4194D-01 -3.6827D-02 -1.0844D-01
+     -1.7080D-01 -1.8114D-01 -1.3477D-01  2.8471D-02  2.6937D-01  4.1300D-01
+      4.2536D-01  3.4218D-01  2.8865D-01  3.1232D-01  3.2169D-01  2.1084D-01
+     -4.4682D-02 -3.8187D-01 -6.5690D-01 -8.4417D-01 -8.0896D-01 -8.2896D-01
+     -8.4733D-01 -9.4036D-01 -1.0751D+00 -1.1686D+00 -1.1842D+00 -1.1230D+00
+     -9.4339D-01 -6.7127D-01 -3.6723D-01  4.7773D-03  4.7111D-01  8.2632D-01
+      9.6764D-01  9.7031D-01  8.9776D-01  7.6944D-01  6.3217D-01  5.0844D-01
+      3.1696D-01  1.3046D-01 -6.1689D-02 -1.9381D-01 -2.8338D-01 -3.2310D-01
+     -3.3428D-01 -3.0412D-01 -2.1203D-01 -1.3616D-01 -4.8899D-02 -2.0525D-02
+      3.9231D-02  6.6619D-02  6.5003D-02  5.4262D-02  8.5500D-02  1.3248D-01
+      1.7913D-01  2.0780D-01  1.8230D-01  1.7603D-01  1.8886D-01  1.6944D-01
+      1.4387D-01  1.1225D-01  9.6948D-02  5.9918D-02  2.0227D-02  1.4661D-02
+     -1.9415D-02 -6.4340D-02 -6.2332D-02 -6.2183D-02 -5.4418D-02 -4.0979D-02
+     -3.0379D-02 -4.0622D-03 -1.0703D-02 -2.3359D-02 -6.4741D-02 -8.7312D-02
+     -2.0819D-01 -2.7339D-01 -3.3089D-01 -3.0360D-01 -1.5513D-01 -8.7691D-02
+     -7.7120D-02 -7.2095D-02 -4.2337D-02 -7.3411D-02 -5.6692D-02 -5.8029D-02
+     -1.5963D-02  1.5355D-02  4.2710D-02  1.0647D-01  1.4436D-01  1.9845D-01
+      2.2367D-01  2.2889D-01  2.3722D-01  2.0898D-01  2.3586D-01  3.0011D-01
+      3.1431D-01  2.8563D-01  2.5561D-01  2.7431D-01  2.8902D-01  2.6436D-01
+      1.8915D-01  1.3525D-01  8.9219D-02  3.3140D-02  3.1576D-02  5.3434D-02
+     -4.9720D-02 -1.2252D-01 -1.3498D-01 -1.0288D-01 -4.8030D-02  3.0450D-04
+     -2.8227D-02 -2.5421D-02  1.1589D-02  9.1175D-02  1.1198D-01  5.8564D-02
+     -1.3030D-02  1.8817D-03  8.3243D-02  4.5946D-02  5.0130D-02 -8.2224D-03
+     -5.3501D-02 -9.9627D-02 -3.7511D-02 -2.2052D-02  1.5598D-01  2.4334D-01
+      1.8739D-01  5.5680D-02 -1.4364D-01 -1.6209D-01 -1.0373D-01  1.2124D-02
+      2.8755D-02  6.4922D-02  9.1868D-03 -6.0254D-02 -6.7927D-02  5.7779D-03
+     -2.7931D-02 -9.8867D-02 -9.7648D-02 -9.5973D-02 -5.0639D-02 -1.1602D-02
+     -1.7267D-02 -4.2134D-02 -5.3307D-02 -5.8189D-02 -1.5008D-02 -5.2333D-02
+     -2.6868D+00 -1.9996D-02 -8.6685D-02 -6.3832D-02 -2.2115D-02 -2.6603D-02
+      9.9302D-02  1.3041D-01 -5.1991D-03 -1.2207D-01 -2.9331D-01 -4.2909D-03
+      1.0267D-01  2.1077D-01  1.3314D-01 -5.2834D-02 -1.6233D-01 -6.6146D-02
+      4.3444D-02 -3.9617D-02 -1.3091D-02  1.3875D-01  1.1553D-01  7.8289D-02
+      3.3198D-02 -2.5741D-02 -1.6268D-01 -4.8697D-02  2.4415D-01  2.7014D-01
+      1.6185D-01  5.9387D-02 -1.1755D-01 -1.1175D-01 -8.4517D-02  1.2018D-01
+      1.1367D-01  8.6604D-02  1.2888D-02  2.5496D-02 -9.5921D-02  8.8890D-02
+      5.9166D-02 -1.3295D-01 -6.6227D-02  1.8239D-01  2.2278D-01 -9.2353D-02
+     -9.8605D-02  5.8745D-02 -1.4362D-02  1.7195D-01 -5.3166D-02  1.1879D-01
+     -1.2265D-02 -1.0019D-01 -1.3959D-02 -1.2550D-02 -1.5983D-01 -2.0720D-01
+      6.6942D-02  1.0598D-01 -1.0612D-02 -1.6873D-01 -3.0430D-01 -2.4837D-01
+     -3.9748D-01 -1.9427D-01 -8.5563D-02  1.2677D-01  3.2342D-01  2.4219D-01
+      5.1662D-01  1.7599D-01  8.0718D-02 -2.2167D-01 -3.6916D-03  6.5385D-02
+      2.3416D-01  6.4323D-02  3.4396D-02  8.0760D-02  1.1015D-01  1.1212D-01
+     -5.5240D-03  2.3761D-02 -3.4556D-01 -4.1132D-01 -3.1212D-01 -1.7476D-01
+     -1.7314D-01  6.4088D-02  6.2552D-02  1.4667D-01  1.6056D-01  3.3223D-01
+      1.9487D-01 -4.4177D-02  9.1979D-03  6.9074D-02  7.6339D-02  1.6015D-01
+      3.1851D-01  1.3559D-01  2.5411D-01  2.9866D-01  3.3586D-01  1.6507D-01
+      1.0753D-01 -1.3537D-02  8.3009D-03  2.1874D-01  1.6753D-02  6.1798D-02
+     -2.3803D-01 -2.7968D-01 -1.8965D-01 -3.1208D-02  3.3546D-02  8.0920D-03
+      1.6552D-01  3.8824D-02 -1.4067D-01 -2.7806D-01 -3.9037D-01 -2.6196D-01
+     -1.4005D-02  6.9717D-02 -9.1453D-03 -6.0264D-02  1.6680D-01  1.7393D-01
+      7.8400D-02 -3.6558D-01 -5.7195D-01 -4.0843D-01 -2.9748D-01 -9.2223D-02
+      1.0277D-01  2.0876D-01  2.4616D-01  2.2202D-01  1.8988D-02  4.6972D-02
+     -1.5884D-01  7.2551D-02  1.8948D-01  1.5017D-01  1.1964D-01  2.4773D-02
+     -8.2392D-02 -2.8052D-01 -1.4783D-01  8.5319D-02  2.7255D-01  4.7263D-01
+      4.2390D-01  1.9808D-01 -3.4166D-02 -2.4749D-01 -3.3606D-01 -1.4164D-01
+     -1.8115D-01 -4.7966D-02  2.1454D-01  2.2713D-01  2.6714D-02 -3.8738D-01
+     -5.5651D-01 -5.0067D-01 -9.1661D-02  3.0531D-01  1.2897D-01 -2.2247D-01
+     -3.3106D-01 -1.7956D-01  7.9180D-02  3.2103D-01  7.7695D-02 -6.5945D-01
+     -8.8460D-01 -4.0785D-02  1.3377D+00  1.7621D+00  1.0513D+00 -7.8866D-02
+     -6.9851D-01 -8.4826D-01 -5.6406D-01 -7.1657D-01 -6.9671D-01 -5.3529D-01
+     -7.1900D-01 -5.9632D-01 -1.6786D-01  6.2022D-01  1.2410D+00  1.0759D+00
+      4.4061D-01 -3.2227D-01 -8.6176D-01 -7.9169D-01 -3.7890D-01  1.1352D-01
+      4.9622D-01  6.0870D-01  3.9837D-01  1.9765D-02 -3.1937D-01 -4.2785D-01
+     -1.9659D-01 -4.5909D-02 -7.9203D-02 -1.5497D-01 -3.7657D-01 -5.0833D-01
+     -2.3822D-01  1.5244D-01  6.6827D-01  1.1504D+00  1.3886D+00  1.4027D+00
+      1.1309D+00  7.7860D-01  2.5712D-01  3.5512D-02 -1.1840D-01 -1.2343D-01
+     -7.0226D-02 -3.4819D-02 -6.0029D-02 -9.3859D-02 -2.5360D-01 -2.5382D-01
+     -3.7124D-01 -5.0243D-01 -2.9840D-01 -2.1319D-01 -5.3075D-02 -2.3199D-02
+     -3.8729D-02 -1.4592D-01 -8.2176D-02 -6.5982D-03  1.1912D-01 -5.4670D-02
+     -1.6618D-01 -2.0077D-01 -5.7683D-02  3.2852D-02  2.1429D-01  2.6696D-01
+      4.7707D-02 -1.0520D-01 -3.3422D-02  2.0324D-02  5.7760D-02  1.1854D-01
+     -6.7647D-02 -7.1294D-02 -8.9845D-03  7.3562D-02  1.6897D-01  1.9405D-01
+     -5.1028D-03 -2.8769D-01 -4.3513D-01 -5.9124D-01 -4.9893D-01 -4.3641D-01
+     -3.4660D-01 -3.1655D-01 -1.9491D-01 -9.0773D-02  1.1512D-01  2.4242D-01
+      2.7447D-01  1.1345D-01  6.1171D-02  1.7673D-01  2.8090D-01  3.8765D-01
+      2.6839D-01  2.5693D-01  2.8694D-01  3.0587D-01  2.8896D-01  2.0191D-01
+      1.4553D-01 -5.6298D-03 -2.3839D-02 -1.8509D-02  2.3139D-02  3.3347D-02
+     -7.1975D-02 -1.9578D-01 -2.8913D-01 -1.8119D-01 -3.3289D-01 -3.4299D-01
+     -4.7066D-01 -5.2065D-01 -3.7205D-01 -3.0214D-01 -2.1997D-01 -2.1798D-03
+     -4.5988D-02  1.4461D-02 -6.2173D-02 -1.2261D-03 -1.6979D-02  8.0078D-02
+      6.6506D-02 -8.6588D-03  5.2701D-02  8.8370D-02 -3.4722D-02  2.7833D-02
+     -4.3141D-02  2.1520D-02  4.5793D-02  8.3280D-02  1.3732D-01  1.9578D-02
+     -1.7785D-02  8.9976D-03 -1.5977D-02  1.4448D-02 -2.8668D-02 -8.4967D-04
+     -1.8128D-02  1.2871D-02 -7.0940D-02 -7.6623D-02  2.5841D-02  4.8410D-02
+     -4.9109D-02 -7.9858D-02 -5.9133D-02  1.3204D-03 -1.0503D-01  3.0404D-02
+      1.7393D-01  2.7871D-01  5.1665D-02  1.3814D-01 -9.2637D-02  8.4566D-03
+     -1.4821D-01 -1.5715D-01  5.6078D-02  1.1908D-01  1.2481D-01 -6.8738D-03
+     -2.4573D-01 -2.6836D-01 -7.6272D-02  2.3615D-01  2.4754D-01  5.4489D-02
+     -5.1281D-01  3.2509D-01 -6.9822D-02 -1.1350D-01 -2.2124D-02  1.2555D-01
+      4.5947D-02  5.9877D-02  8.9908D-03 -1.1885D-01 -6.6690D-02 -1.0755D-01
+     -2.6684D-01 -2.5522D-01 -2.7835D-01 -1.0761D-01 -6.2054D-02  1.2082D-01
+     -2.9973D-01 -1.1218D-01  6.3878D-02 -7.2874D-02 -1.5803D-01  1.7136D-02
+      8.3624D-02  1.2208D-01 -5.1517D-02 -2.2341D-01 -9.8761D-02  1.0222D-01
+      1.9803D-01  1.3843D-01 -1.1922D-01 -1.0510D-01 -7.0708D-02 -1.3408D-01
+     -7.2961D-02  4.0203D-02 -5.0426D-02 -2.2931D-01 -1.1927D-01  6.7953D-02
+      1.1551D-01  1.7714D-01  2.7700D-02  1.3157D-01 -6.9648D-02 -4.0831D-01
+     -2.2448D-01 -1.0051D-01  2.5471D-02  2.0468D-01  1.3703D-02  4.4261D-02
+     -1.1158D-01  1.6194D-01  3.8682D-01  3.2659D-01 -3.4391D-02 -3.5524D-01
+     -5.4754D-01  1.0663D-01  2.0646D-02  1.6706D-01 -1.7512D-02  2.0227D-01
+     -1.4315D-01 -2.9237D-01 -3.0552D-02 -5.7625D-02  3.2632D-01  4.4831D-01
+      1.0207D-01 -1.6011D-01 -2.4612D-01 -2.9440D-01 -2.2202D-02  1.8753D-01
+      1.6649D-01 -9.6721D-02 -1.8263D-01 -3.4467D-01 -1.4446D-01 -3.1933D-01
+      2.2822D-01  9.3360D-02  2.0445D-01  3.2401D-01  6.4543D-01  5.7084D-01
+     -1.4500D-01 -1.5823D-01  2.4244D-01  3.7707D-01  1.4987D-01  1.5321D-02
+     -2.4639D-01  3.2425D-03  1.2911D-01 -2.6298D-01 -3.6135D-01 -3.7770D-01
+     -5.7056D-01 -3.7322D-01 -3.5815D-01 -2.9267D-01 -3.3866D-01 -6.6830D-01
+     -7.6057D-01 -6.9934D-01 -1.2973D-01  6.4092D-01  7.3807D-01  2.5996D-01
+     -2.1884D-01 -1.0527D-01  4.3261D-01 -1.5910D-01 -1.8894D-01  6.8826D-02
+      3.8787D-01  3.1238D-01  1.9681D-01  2.0079D-01  4.4990D-01  5.5807D-01
+      2.0522D-01 -2.0585D-01 -1.7921D-01 -1.7280D-01 -3.1627D-01 -3.3360D-01
+     -7.3613D-01 -9.3546D-01 -3.9380D-01 -1.7293D-01  2.6017D-02  5.5171D-01
+     -4.5659D-03  5.3097D-01  4.9163D-01  6.6089D-01  4.9834D-01  2.3527D-01
+      1.2373D-01  2.7231D-01  1.4330D-01 -4.4299D-01 -5.1359D-01 -3.3850D-01
+     -2.7115D-01 -2.0679D-01  1.1564D-01  3.8437D-01  5.4768D-01  7.4779D-01
+      3.5150D-01  6.9131D-02 -9.1838D-02 -1.8277D-01 -1.5245D-01 -2.6622D-01
+      1.4480D-01  7.5321D-02  2.5896D-02 -6.4186D-02  1.8220D-01  3.7744D-01
+      3.7802D-01  1.5503D-01  1.1499D-01  6.2229D-02  3.9356D-01  3.5958D-01
+      1.5694D-01 -3.9218D-02 -4.5101D-01 -3.7542D-01 -2.3670D-02  3.1186D-01
+      2.6444D-01 -1.1442D-01 -6.1133D-01 -8.3000D-01 -1.2157D+00 -1.1212D+00
+     -5.4058D-01  7.6176D-01  1.8894D+00  1.9996D+00  1.3064D+00  6.8054D-01
+      1.7045D-01 -8.7239D-02 -2.8738D-01 -1.9380D-01 -1.7104D-02  1.5949D-01
+      1.7528D-01 -2.3315D-01 -4.7594D-01 -7.5022D-01 -6.7772D-01 -3.6605D-01
+      1.1051D-01  5.6043D-01  7.4998D-01  5.0391D-01 -1.6029D-01 -5.6536D-01
+     -6.1296D-01 -3.1253D-01 -1.3223D-01  9.4339D-02  5.0424D-01  8.6499D-01
+      1.2125D+00  1.3753D+00  1.3307D+00  1.2481D+00  1.1124D+00  6.6918D-01
+      2.7188D-01 -2.4059D-02 -2.5382D-01 -7.7149D-01 -1.1317D+00 -1.2940D+00
+     -1.6055D+00 -1.2628D+00 -1.1298D+00 -8.8762D-01 -8.0013D-01 -7.0730D-01
+     -4.5089D-01 -2.6068D-01  4.7142D-02  8.5199D-02  2.1046D-01  4.2233D-01
+      5.6018D-01  9.2676D-01  8.5148D-01  6.3206D-01  5.2532D-01  4.3635D-01
+      2.8115D-01  4.3757D-01  4.2029D-01  8.8761D-02  5.9243D-02  8.2656D-02
+      1.2243D-01  7.0632D-02 -1.4785D-01 -3.1874D-01 -2.3692D-01 -2.4657D-01
+     -6.5800D-02 -7.0067D-02 -9.7898D-02 -2.9561D-01 -1.9868D-01 -1.6785D-01
+      6.2773D-02 -5.7976D-02 -1.1512D-01  1.0150D-01  3.7710D-02 -3.9016D-02
+      2.2667D-01  5.6362D-01  4.9817D-01  1.0858D-01 -1.4870D-01 -1.2365D-01
+     -8.1571D-02 -1.6201D-01  1.1553D-01  1.4491D-01  3.3615D-01  2.6574D-01
+      1.1102D-01  1.3602D-01  3.7392D-02 -1.6705D-01 -2.3444D-01 -2.2852D-01
+     -3.0495D-01  6.8268D-02  3.1078D-01  2.5815D-01 -2.8191D-02 -5.6099D-01
+     -3.4530D-01 -2.7288D-02  1.2917D-01  1.4387D-01  1.7444D-01 -1.1525D-01
+     -2.7365D-03 -2.0845D-02 -1.4863D-01  8.7801D-02  8.8648D-02  6.6917D-03
+     -1.4118D-01  7.8484D-02  1.4972D-01  1.8954D-01 -1.8292D-01 -2.3109D-01
+     -1.9776D-01 -2.4145D-01  9.7453D-02  1.9543D-01  2.9743D-01  3.7308D-01
+      1.6306D-01  1.6886D-01  1.3433D-01 -2.3106D-01 -1.1434D-01 -3.3614D-01
+     -5.6285D-02 -1.5635D-01  4.4800D-03  5.6431D-02 -1.1872D-02 -2.4634D-02
+     -2.1018D-01 -1.6928D-01  2.2701D-01  1.6560D-01  2.1467D-01  3.3026D-01
+     -4.6194D-02 -2.5193D-01  1.0799D-01  3.8233D-01  1.9977D-01 -7.4392D-02
+     -2.0098D-01 -2.7688D-01  1.8551D-02  1.3994D-01 -3.2015D-01 -1.9084D-01
+     -3.4554D-01 -3.2102D-01  1.4752D-01  9.4523D-02  7.7686D-02  8.8056D-02
+      1.8705D-01  3.1044D-01 -1.1697D-02 -4.2765D-02 -2.6107D-01  3.9851D-02
+     -4.7719D-02  8.6090D-02 -2.4176D+00 -3.4290D-01  8.9716D-02  1.3116D-01
+      6.0989D-02 -4.1752D-02 -9.4751D-02 -1.5799D-01 -1.9727D-02 -5.8069D-02
+     -5.0419D-03  1.1509D-01  8.1023D-02 -4.8389D-02 -2.0220D-02  1.3881D-02
+      7.5231D-02  1.4415D-01 -2.7626D-02 -8.0334D-02 -9.8154D-02 -6.1896D-02
+     -2.8749D-02 -6.4264D-02 -7.5172D-02 -9.3345D-03  1.5051D-01  1.0425D-01
+     -8.0944D-03 -1.7688D-01 -1.9335D-01  3.9571D-02  1.2036D-01  9.9712D-02
+      5.2676D-02 -2.3120D-01 -1.1973D-01 -1.1327D-02  1.0746D-01  1.3291D-01
+      1.1783D-01 -1.0462D-01 -2.1057D-01 -9.3346D-02 -7.0062D-02 -1.5753D-02
+      1.5486D-01  1.0226D-01  4.3342D-02 -2.3115D-02 -9.6360D-02 -2.8374D-02
+      1.0590D-01 -1.4162D-02 -7.8342D-02 -9.8881D-02 -8.5769D-02  8.7233D-02
+      2.0980D-01  1.9035D-01 -6.0353D-02 -9.0134D-03 -1.7208D-02  9.1167D-02
+      6.3255D-02  1.2459D-01  1.8871D-01  7.6027D-02  1.0156D-01 -1.7515D-01
+     -2.2898D-01 -3.6486D-01 -3.7008D-01 -2.6265D-01 -2.5788D-01 -2.4408D-02
+     -5.6976D-02 -1.6651D-01 -6.8018D-02  5.7161D-02  7.4258D-02  4.7517D-02
+      1.0789D-01 -5.2593D-02  1.6066D-01  4.3007D-02 -6.8781D-02 -7.3422D-02
+      1.7540D-01  5.7337D-01  6.4659D-01  3.3858D-01  1.4120D-01  1.8247D-01
+      5.5562D-02 -5.0331D-02 -3.8717D-02  3.1259D-02  1.4161D-01  2.6381D-01
+      1.1827D-01 -1.3701D-01 -3.4914D-01 -1.3960D-01 -1.9678D-01 -3.3766D-01
+     -1.3451D-01 -1.9563D-01 -2.8253D-01 -2.8384D-01 -4.3344D-01 -3.4149D-01
+     -3.2590D-02  2.0194D-01  1.4587D-01  1.5307D-01  3.1861D-01  2.5368D-01
+      1.8569D-02 -1.2343D-01 -7.6854D-02  1.6833D-01  4.6751D-01  4.4935D-01
+      3.9326D-01  2.0537D-01 -4.7955D-02 -1.4491D-01 -3.9560D-02  6.1914D-02
+     -7.1969D-02 -1.3215D-01  7.2650D-02 -1.8441D-01 -3.1609D-01 -2.9277D-01
+     -3.4858D-01 -5.0398D-02 -2.0137D-01 -3.5058D-01 -3.8236D-01 -2.7481D-01
+      3.4051D-02 -9.9449D-03 -1.1408D-02 -2.6489D-01  2.2104D-02  2.6910D-01
+      2.6689D-01  1.1714D-01 -1.1869D-01 -7.6923D-02 -1.3743D-02 -4.3691D-02
+      8.2401D-02  1.3588D-01  3.2623D-01  2.3984D-01  2.5103D-01 -9.5988D-02
+     -1.4827D-01 -5.5273D-01 -6.8762D-01 -7.1066D-01 -6.8020D-01 -5.2154D-01
+      7.6755D-02  1.6420D+00  3.0823D+00  2.6650D+00  1.9869D-02 -2.9498D+00
+     -3.5518D+00 -1.7043D+00  7.3014D-01  2.4510D+00  2.6239D+00  1.0026D+00
+     -1.0624D+00 -1.9891D+00 -1.5627D+00 -9.4174D-01 -6.4209D-01  5.1897D-01
+      2.2632D+00  2.5077D+00  2.1448D-01 -1.5862D+00 -1.4862D+00 -3.3411D-01
+      5.4041D-01  1.0980D+00  1.1744D+00  9.0850D-01  7.7809D-02 -1.0237D+00
+     -1.5661D+00 -1.3386D+00 -4.1962D-01  4.4592D-01  1.0806D+00  1.2096D+00
+      9.6345D-01  2.8877D-01 -4.4376D-01 -1.0382D+00 -1.0994D+00 -5.9278D-01
+      6.8465D-02  6.4220D-01  9.3259D-01  1.0641D+00  8.3650D-01  3.0825D-01
+     -2.4552D-01 -6.6026D-01 -9.0507D-01 -8.3198D-01 -7.6293D-01 -6.2689D-01
+     -3.3990D-01 -1.3015D-01  1.3883D-01  4.2907D-01  7.8604D-01  7.7716D-01
+      6.1918D-01  3.7444D-01 -1.6684D-02 -4.0634D-02 -7.1445D-02  1.5845D-02
+     -1.8502D-02 -1.1791D-01 -9.6479D-02 -1.6697D-01 -8.8149D-02 -1.1211D-01
+     -2.2100D-01 -3.1751D-01 -4.2670D-01 -2.1571D-01 -5.9635D-02  2.6383D-02
+      5.4007D-02  2.9924D-02 -2.2472D-02  1.4862D-01  3.1165D-01  3.9434D-01
+      1.9171D-01  2.7214D-02  1.0509D-01  2.4377D-01  2.7630D-01  2.0386D-01
+      1.0132D-01 -1.9713D-01 -2.3321D-01 -2.5049D-01 -1.0041D-01 -3.4366D-02
+     -1.6263D-01 -4.5182D-01 -4.6439D-01 -3.5653D-01 -3.0020D-01 -1.8715D-01
+     -9.5246D-02 -9.0489D-02 -5.7883D-02  5.8031D-02  2.5107D-01  4.4090D-01
+      4.7966D-01  4.8728D-01  6.0292D-01  5.2809D-01  4.9421D-01  2.5435D-01
+      8.8280D-02 -1.2408D-01 -3.6462D-01 -3.6717D-01 -2.4614D-01 -2.3666D-01
+     -3.1850D-01 -3.0534D-01 -3.9503D-01 -3.8278D-01 -1.6311D-01  1.7714D-02
+      2.3428D-01  1.0831D-01  1.2494D-01  4.6797D-02  1.3303D-01  1.5584D-01
+      3.7732D-01  2.5275D-01  1.5730D-01  1.5359D-01 -6.1790D-02 -5.0257D-02
+     -4.6820D-02 -4.2497D-02 -1.0863D-01  5.7066D-02  2.1119D-03  1.4382D-01
+      6.4452D-02 -3.1772D-02 -8.8589D-02 -1.1806D-01 -1.9575D-02  7.4694D-03
+      5.4506D-03  4.3623D-02  3.7487D-02  9.4036D-03  2.0349D-01  7.6059D-02
+      9.5822D-02  2.3425D-02  6.5269D-02  9.6753D-02 -2.3980D-02 -9.6303D-02
+     -6.5220D-03  1.4888D-01  1.5452D-01 -2.2385D-02  9.4268D-03 -1.4933D-01
+     -2.6383D-01 -4.1009D-02  1.6995D-01  8.3598D-02 -3.0728D-04  2.2715D-02
+      8.2687D-02  8.7225D-02  3.7308D-02 -1.0342D-01 -4.8161D-02 -4.3924D-03
+     -2.7986D-02  8.3323D-04  2.3330D-01 -2.2764D-02  1.6265D-01  7.5341D-02
+     -4.5054D-02 -5.2129D-02 -1.5598D-01  6.5676D-02 -2.0519D-02 -1.3551D-02
+     -7.3200D-02 -8.8359D-03  1.3256D-01  2.0229D+00 -2.1630D-01 -7.2162D-03
+     -3.5060D-02 -7.7113D-02 -4.2523D-02 -7.6557D-02 -1.2887D-02  5.8152D-02
+      1.6237D-02  7.3401D-02 -9.5414D-02 -8.9562D-02  1.2082D-02  1.1928D-02
+      1.4365D-02  5.1409D-02  1.7348D-02 -1.4600D-01 -6.4509D-02  1.2754D-02
+     -2.9627D-02  6.4810D-02  6.9883D-02  3.1963D-02 -7.7165D-02 -4.1024D-02
+     -1.7915D-01 -1.4620D-01 -4.8083D-02  5.3291D-02  6.2015D-02  6.3239D-03
+      4.2337D-03 -5.0889D-03 -6.0296D-02 -8.8583D-02 -3.3359D-03  1.7239D-02
+     -1.1591D-02 -2.2966D-02 -1.3104D-01 -3.4077D-02  1.0901D-01  7.0770D-02
+     -1.0626D-01 -8.8290D-02  7.1984D-02  7.1358D-02  1.8380D-02  6.7261D-02
+      2.1291D-02  8.0067D-02 -3.6670D-02 -1.7457D-01 -1.1296D-01 -4.7463D-02
+      8.8013D-02  6.9043D-02  3.2474D-02 -7.0861D-02 -6.5707D-02  7.1079D-03
+      9.9521D-02  1.3245D-01  1.1190D-01  1.9808D-01  4.8328D-02  1.1509D-05
+      5.0416D-02 -9.4601D-02  5.8341D-02 -3.3490D-02  2.4446D-01  1.1949D-01
+      9.4596D-02 -9.0615D-02 -7.9672D-02 -1.7473D-01 -1.4017D-01  1.2988D-02
+     -1.1281D-01  9.1704D-02  7.3673D-02 -3.7061D-02 -1.6188D-01 -1.6416D-02
+      8.4770D-02  1.1534D-01  5.4795D-02 -1.2799D-01 -2.5267D-01 -2.3862D-01
+     -2.8995D-01 -1.8002D-01 -2.5054D-01 -1.2291D-01 -1.5909D-01  6.7637D-02
+      4.7131D-02  2.0661D-01  3.2005D-01  1.2481D-01  8.2038D-02  1.4491D-01
+      1.4501D-01  1.5815D-01  1.2788D-01  6.9322D-02  2.2086D-02 -8.8579D-02
+     -3.8879D-01 -9.9397D-02 -7.3061D-02  5.7413D-02 -1.4424D-02  4.2828D-02
+      1.8256D-01  1.2834D-01  9.6541D-03 -2.0465D-01 -2.9422D-01 -3.4448D-01
+     -3.4379D-01 -3.6629D-01 -3.4973D-01 -1.0451D-01  2.8046D-01  3.7866D-01
+      3.2327D-01  7.4346D-02  1.8946D-01  1.5378D-01  2.9978D-01  2.4712D-01
+      4.6434D-02 -2.7552D-04 -1.8195D-01 -2.2611D-01 -1.6581D-02 -8.9349D-02
+      1.3074D-01  3.1504D-01  3.9478D-01  3.5222D-01  3.6224D-01  3.7154D-01
+      2.7758D-01 -5.2325D-02 -1.1172D-01 -2.5061D-01 -3.1589D-01 -5.7921D-01
+     -4.1823D-01 -1.6941D-01  9.6495D-02  5.2713D-01  5.3020D-01  2.7196D-01
+     -1.2740D-01 -2.2831D-01 -1.8266D-01 -2.6772D-01 -3.6495D-01 -4.8711D-01
+     -2.1626D-01  4.0151D-01  4.7117D-01 -1.1971D-01 -7.0369D-01 -6.9515D-01
+     -4.1290D-01 -1.9429D-01 -1.0002D-01 -4.5908D-02  7.6723D-02  1.8586D-01
+      7.5805D-01  9.4974D-01  1.9310D-01 -5.5810D-01 -1.0880D-01  8.7687D-01
+      9.1275D-01 -2.7156D-01 -8.8560D-01  1.3716D-01  8.2528D-01  2.1586D-01
+     -6.4068D-01 -1.4834D+00 -1.8072D+00 -1.2081D+00 -4.6717D-01  2.7155D-01
+      8.6781D-01  1.2845D+00  1.4589D+00  1.2176D+00  7.5216D-01  2.4525D-01
+     -3.8785D-01 -8.1437D-01 -1.0299D+00 -9.8584D-01 -7.5594D-01 -3.6409D-01
+      2.4528D-02  5.2148D-01  8.2019D-01  1.0064D+00  1.0728D+00  1.1084D+00
+      9.8338D-01  6.8152D-01  2.9705D-01 -2.5790D-01 -7.3524D-01 -9.7531D-01
+     -1.0574D+00 -9.4548D-01 -8.4100D-01 -6.0256D-01 -3.5078D-01  2.7178D-02
+      1.5877D-01  2.1230D-01  2.9413D-01  2.7716D-01  1.5594D-01  1.5082D-01
+      6.3859D-02  8.0914D-02  4.7208D-02  3.2316D-02  1.3746D-01  1.3569D-01
+      2.1662D-01  7.3368D-02  5.9210D-02  1.3053D-02 -4.5333D-02 -8.8421D-02
+     -1.4089D-01 -1.1507D-01  8.3992D-02  3.1256D-02 -5.8284D-02 -1.8262D-01
+     -3.1268D-01 -2.4233D-01 -1.6257D-01 -1.0145D-01 -7.8303D-02 -4.1875D-02
+     -5.9227D-02 -1.4749D-01 -1.5386D-01  8.4270D-02  2.0559D-01  2.1886D-01
+      7.5399D-02 -1.3788D-02 -8.4567D-03  2.0421D-02  6.6113D-02  6.7142D-02
+      3.1619D-01  4.6828D-01  3.6685D-01  1.4563D-01 -2.3561D-02 -1.0026D-01
+     -2.1982D-02  7.1875D-03  8.1320D-02  5.7452D-02  7.7056D-02  6.9501D-02
+     -4.1571D-02 -9.6843D-02 -1.5961D-01 -9.8078D-02 -6.5672D-02 -4.5077D-02
+      3.6040D-02  2.4138D-01  4.1798D-01  2.7298D-01  1.0830D-01 -2.0172D-02
+     -7.6266D-02  5.3450D-02  7.8580D-02  6.8960D-02  2.8059D-02 -1.8918D-01
+     -2.7582D-01 -1.8557D-01 -1.2908D-01 -9.0222D-04 -1.0544D-02 -5.9443D-02
+     -1.4762D-01 -9.4295D-02 -6.6486D-02  6.1332D-02  6.1853D-02  8.7055D-02
+      6.9352D-02  7.1663D-02 -5.9000D-02 -1.3961D-01 -1.3932D-01 -1.3058D-01
+     -1.5823D-01 -5.7189D-02  8.2875D-02  5.1199D-02 -1.1315D-02 -1.4421D-01
+     -1.0685D-01 -5.9658D-02 -2.3215D-03 -5.0716D-02  4.1671D-02  1.2884D-01
+     -9.8404D-03 -6.8247D-02 -5.8507D-02 -4.9651D-02 -1.1347D-01 -4.8089D-02
+     -4.4360D-02 -6.8830D-02  1.1147D-02  5.6103D-02 -5.1955D-02 -9.7414D-02
+     -9.6211D-02  3.4318D-02  1.0132D-01  1.2274D-01 -1.3630D-01 -1.2024D-01
+     -2.3757D-02  2.6714D-01  3.5826D-01  2.7011D-01  8.3982D-02 -2.2292D-01
+     -2.8057D-01 -1.6168D-01 -6.3413D-02  2.0031D-03  2.9947D-02  1.0365D-01
+     -2.2370D-02 -9.2427D-03  2.4106D-02  1.2616D-01  1.6891D+00 -2.9710D-01
+     -1.5025D-01 -4.2982D-02  3.3285D-02  7.4507D-02  1.6750D-03 -6.2407D-02
+     -3.1726D-02  2.4655D-02  6.4660D-02  5.8294D-02  5.7807D-02  7.3290D-03
+      1.3429D-02  1.3900D-02 -3.6787D-04 -5.7695D-02 -6.5314D-02 -5.8783D-02
+     -8.7576D-03  1.0390D-01  1.2805D-01  6.5468D-02 -4.8843D-02 -6.0251D-03
+      6.2945D-02  1.1597D-01  4.6495D-02 -2.7732D-02 -8.2052D-02 -3.3515D-02
+      8.8212D-02  1.3107D-01  1.6396D-01  1.4897D-01  8.8136D-02 -2.9957D-02
+     -4.9792D-02 -5.0974D-02 -4.3837D-02  5.3841D-02  8.5226D-02  1.5268D-01
+      1.2139D-01  7.0733D-02  2.4914D-02 -3.2455D-02 -1.6879D-01 -1.4172D-01
+      1.0173D-02  8.9206D-02  1.7939D-01  5.4283D-02 -1.3111D-02 -7.8593D-02
+     -2.4423D-01 -2.9039D-01 -5.6462D-02  1.7893D-01  1.4702D-01  1.4660D-01
+      6.9082D-02  1.0712D-01  9.1254D-02  3.2876D-02  8.5269D-02  3.5547D-02
+      5.7234D-03 -9.3569D-03  5.7944D-02  1.4578D-01 -4.8649D-02 -7.0413D-02
+     -3.9705D-02  4.9050D-02  1.2740D-01  1.5834D-01  1.4643D-02 -1.1583D-01
+     -1.1850D-01 -1.3227D-01 -2.0815D-02  2.6763D-02  6.3889D-02  1.1092D-01
+      8.1670D-02 -7.1276D-02 -3.3337D-01 -4.7805D-01 -5.0515D-01 -5.1129D-01
+     -3.9566D-01 -2.6432D-01 -1.4630D-01 -8.5496D-02 -1.3880D-01 -1.0636D-01
+     -1.2435D-01 -1.4776D-01 -6.2853D-02  1.1495D-01  3.0236D-01  3.9108D-01
+      5.2514D-01  6.9209D-01  6.2870D-01  6.1602D-01  5.8543D-01  5.5440D-01
+      3.6617D-01  1.2669D-01 -7.2334D-02 -2.1613D-01 -2.7497D-01 -1.9588D-01
+     -1.1306D-01 -1.5664D-01 -6.4335D-02 -7.3897D-02 -3.9250D-02  7.7138D-03
+     -4.3950D-02 -1.8442D-01 -1.2095D-01  2.1360D-02  1.6624D-01  1.5074D-01
+      2.2021D-01  2.9947D-01  4.8420D-01  5.4659D-01  5.6855D-01  6.1809D-01
+      5.5939D-01  3.5845D-01  2.1240D-01  3.6663D-02 -1.5765D-01 -1.9332D-01
+     -2.2285D-01 -2.1729D-01 -4.0244D-01 -5.6728D-01 -5.8929D-01 -5.7628D-01
+     -5.0996D-01 -4.2966D-01 -2.2914D-01 -2.3926D-01 -2.4018D-01 -2.4300D-01
+     -2.4351D-01 -3.5801D-01 -3.0781D-01 -2.6468D-01 -2.3768D-01 -5.8821D-02
+     -7.5058D-02 -3.4922D-02 -7.4670D-03  1.0307D-01  5.2666D-01  7.6518D-01
+      8.7794D-01  6.6923D-01  9.3340D-02 -5.8426D-01 -1.1781D+00 -1.3069D+00
+     -9.4874D-01 -3.0759D-01  3.7269D-01  7.0806D-01  7.0440D-01  3.5359D-01
+     -5.9629D-02 -5.1314D-01 -7.2193D-01 -6.4199D-01 -2.1159D-01  5.3368D-01
+      1.1638D+00  1.4309D+00  1.1643D+00  1.9367D-01 -9.2927D-01 -1.1161D+00
+     -7.0017D-01 -2.5730D-02  5.5138D-01  6.9891D-01  3.9701D-01 -9.4199D-02
+     -4.2860D-01 -6.5866D-01 -9.0427D-01 -1.1277D+00 -1.1765D+00 -9.9272D-01
+     -6.2253D-01 -1.3916D-01  3.1344D-01  7.0866D-01  9.0480D-01  8.9991D-01
+      6.8068D-01  3.5036D-01 -1.9503D-01 -7.3686D-01 -1.1920D+00 -1.3039D+00
+     -1.0736D+00 -5.7653D-01 -5.3342D-02  4.7614D-01  8.4553D-01  1.0832D+00
+      1.1760D+00  1.1114D+00  1.0232D+00  9.1339D-01  7.7663D-01  5.9002D-01
+      5.0444D-01  4.7065D-01  4.3033D-01  3.1800D-01  1.8058D-01  1.3909D-01
+      6.0890D-02 -1.7185D-02  2.6507D-02 -1.4573D-02 -6.6459D-02 -4.4323D-02
+     -1.4016D-01 -1.5502D-01 -1.4468D-01 -1.2859D-01 -2.4714D-02 -1.8270D-02
+     -1.5572D-01 -2.4994D-01 -3.7734D-01 -4.2798D-01 -4.1281D-01 -3.9303D-01
+     -2.8085D-01 -2.0716D-01 -2.2370D-01 -2.7340D-01 -2.8436D-01 -2.5012D-01
+     -2.4401D-01 -1.7663D-01 -5.2490D-03  4.2468D-02  1.2623D-01  1.1450D-01
+      6.4921D-02  4.4574D-03 -3.7179D-02  1.7438D-02  1.5364D-01  3.0742D-01
+      4.4594D-01  4.6380D-01  3.7242D-01  3.5930D-01  2.9129D-01  2.6673D-01
+      2.1084D-01  7.4704D-02 -2.5900D-02 -1.6761D-01 -3.3528D-01 -4.1129D-01
+     -4.1783D-01 -4.1924D-01 -4.5685D-01 -4.0676D-01 -3.7971D-01 -4.0160D-01
+     -3.5228D-01 -2.3273D-01 -1.3541D-01 -1.0518D-01 -1.1220D-01 -1.4491D-02
+      6.7641D-02  2.2994D-02  2.0629D-02  2.4721D-02  6.4470D-02  1.8140D-01
+      2.5455D-01  2.4025D-01  1.8013D-01  1.0499D-01  8.0227D-02  2.0885D-02
+     -4.5804D-02 -1.7307D-02  1.8475D-02  5.5996D-02  7.4976D-02  5.5937D-02
+      1.2573D-01  1.3770D-01  8.8518D-02 -3.2372D-02 -6.8577D-02 -1.0342D-01
+     -8.7849D-02 -1.7131D-02  4.9596D-02  1.0225D-02 -9.2387D-03 -9.9888D-02
+      2.4832D-03  2.4761D-02 -3.0032D-02  2.5166D-02 -5.5985D-03 -5.5203D-02
+     -4.4049D-02  3.9239D-02  4.9482D-02  9.0595D-02  5.8901D-02  4.3841D-02
+      6.6805D-02  3.6491D-02  4.7822D-02  3.0817D-02 -1.1915D-01 -2.0135D-01
+     -2.1979D-01 -1.1781D-01 -9.0618D-03  4.7828D-02  8.8563D-02  1.0548D-01
+      6.6103D-02 -6.1361D-02  3.5942D-02  3.0124D-02  2.2395D-02  3.4808D-02
+     -9.3827D-02 -1.0477D-01 -6.2756D-02  8.0939D-02  1.6602D-01  1.4926D-01
+      4.9918D-02  3.0323D-02 -5.9246D-03 -4.1861D-02 -3.6564D-03 -1.9300D+00
+      5.7617D-01  6.6282D-02 -5.4724D-02 -9.8029D-02  2.0532D-02 -9.1183D-04
+      7.5493D-02  1.0413D-01  1.5888D-01  1.3520D-01  2.5658D-03 -3.3865D-02
+      4.6421D-03 -6.4182D-02  4.0656D-02 -7.0028D-02  2.6073D-01  2.8353D-01
+      9.8978D-02  2.9811D-02 -1.4056D-01 -3.5370D-01 -1.1426D-01  4.7864D-02
+      2.0429D-01  1.5483D-01  4.2385D-02 -2.3279D-01 -1.6117D-01  2.2100D-02
+      6.0251D-02  5.4262D-02  9.8688D-03  1.8785D-02  4.6922D-02 -9.9271D-02
+     -2.1507D-02  1.6078D-01  1.2107D-01  4.4781D-02 -1.0901D-02 -1.1438D-01
+     -1.4116D-01 -2.1844D-01 -4.7277D-02  8.3261D-02  1.7311D-01  2.3408D-01
+      5.7512D-02 -1.2467D-01 -1.6544D-01 -2.2527D-01  7.4544D-02  1.2328D-01
+     -6.6033D-02 -5.2491D-02  4.5890D-03  1.4874D-01  2.1534D-01 -1.9308D-01
+     -1.0652D-01 -7.7825D-02 -9.7605D-03 -1.4558D-01  1.2415D-01  1.9960D-01
+      3.3956D-02  1.9800D-02 -3.3802D-01 -5.4598D-01 -2.7279D-01 -5.2450D-03
+      6.9091D-02  3.1707D-01  6.4311D-02 -1.2806D-01 -1.2451D-01  1.4381D-01
+      3.8086D-01  3.8638D-01  2.8763D-01  1.5313D-02 -3.8595D-01 -3.4397D-01
+     -2.2911D-01  1.2724D-02 -1.5605D-01 -1.8136D-01  1.3059D-01  1.7666D-01
+     -3.5247D-02 -1.2120D-01  1.1977D-02  1.4129D-01  3.2699D-01  1.3805D-01
+      1.9010D-01  2.4056D-01  1.9833D-01  7.7020D-02  7.1505D-02 -2.1679D-02
+      1.9317D-02 -1.6159D-01 -2.6084D-01 -1.5456D-01  1.5687D-01  2.3403D-01
+     -1.2745D-01 -4.9679D-01 -3.7743D-01 -9.3380D-02  1.7047D-01  3.3193D-01
+     -1.2966D-01  5.3388D-02 -8.2288D-02 -1.5877D-01 -1.5577D-01 -3.3229D-02
+      4.0600D-03 -5.8057D-02 -2.8978D-02 -3.0256D-02  2.5179D-01  2.8710D-01
+     -5.4107D-02 -3.0518D-01 -2.5808D-01 -1.8852D-01  6.1610D-02  1.2685D-01
+      1.1943D-01  3.5145D-01  3.5206D-01 -7.6241D-02  1.5866D-01 -8.4119D-02
+     -5.2653D-02 -6.4902D-02 -1.8572D-01 -3.2580D-02  1.2258D-01  1.7780D-01
+      1.8764D-01  2.3746D-01  9.1997D-02 -1.4542D-01 -2.2282D-01  7.4636D-02
+      3.6690D-01  6.9241D-01  8.0011D-01  1.2529D-01 -1.1850D-01 -6.2897D-01
+     -7.0042D-01 -6.3614D-01 -2.3577D-01 -1.8470D-01 -3.7549D-01 -1.2896D-02
+      2.9453D-01  5.2845D-01  4.9209D-01  2.8276D-01  1.1552D-02 -1.6510D-02
+      2.9488D-01  9.3493D-01  1.0832D+00  7.8495D-01 -5.3143D-02 -7.9921D-01
+     -9.9494D-01 -7.9173D-01 -1.7835D-01  2.8839D-01  7.0162D-02 -7.1770D-01
+     -1.0490D+00 -6.7198D-01  3.5836D-02  3.3902D-01  8.9211D-01  1.2182D+00
+      6.8404D-01  2.9354D-03 -3.2157D-01 -3.7910D-01 -3.7670D-01 -2.4618D-01
+     -9.6291D-02 -8.8668D-02 -1.5048D-01 -3.5646D-01 -2.0689D-01  2.7947D-01
+      7.6366D-01  1.0898D+00  9.2158D-01  2.5397D-01 -4.6088D-01 -9.4485D-01
+     -8.8980D-01 -4.6169D-01  6.9759D-02  1.7749D-01 -6.4026D-03 -4.4879D-01
+     -6.1024D-01 -5.0460D-01 -4.0747D-01 -2.6906D-02 -8.1298D-03  9.2847D-03
+     -1.5174D-01 -4.1378D-01 -6.1468D-01 -6.2701D-01 -4.3265D-01 -2.9675D-01
+     -2.4970D-01 -1.3201D-01  5.6858D-02  1.4578D-01  2.7127D-01  6.5689D-02
+     -5.7429D-02 -1.6293D-01 -6.6292D-02  1.0254D-01  1.5781D-01  2.5410D-01
+      2.1215D-01  1.7537D-01  1.1493D-01  1.1687D-01  1.3329D-01 -1.2658D-01
+     -9.1970D-02  5.8014D-02  5.7757D-02  1.9092D-02  1.3648D-01  1.5316D-01
+      4.3952D-02  5.4122D-02 -3.1592D-02 -7.6876D-02 -6.6136D-02  2.9885D-02
+      1.5857D-01  1.5394D-01  6.6301D-02  6.4200D-02  6.6921D-02 -9.0070D-03
+     -4.4272D-02  8.9792D-03 -1.7321D-02  1.5256D-01  1.6578D-01  3.3874D-01
+      4.0522D-01  1.8510D-01  2.3020D-02 -1.4532D-01 -3.7150D-01 -5.5508D-01
+     -4.5244D-01 -2.7125D-01 -2.4345D-01 -4.2906D-01 -4.9710D-01 -3.5024D-01
+     -2.1466D-01 -7.8568D-02  2.4474D-02  2.2237D-01  3.4692D-01  5.2569D-01
+      6.1724D-01  5.9570D-01  4.0427D-01  2.2550D-01  1.5227D-01  7.8479D-02
+     -2.0841D-04 -1.3403D-01  3.9547D-02  1.2303D-01 -4.4019D-02 -3.5755D-01
+     -4.1331D-01 -2.8202D-01 -3.5075D-01 -1.3271D-01 -1.1880D-01 -4.5238D-02
+      1.9105D-01  1.6566D-01  1.7307D-01  6.1602D-02 -9.2674D-02 -3.2454D-01
+     -5.2818D-01 -4.7752D-01 -2.5594D-01 -9.6986D-03  2.0925D-01  4.1829D-01
+      3.2172D-01  1.1240D-01 -8.2927D-02 -2.3333D-01 -2.7959D-01 -2.0547D-01
+     -2.5820D-02  1.4892D-01  2.5504D-02  1.0151D-01 -1.2154D-01  1.0661D-01
+     -8.3669D-02 -1.0315D-01 -1.8915D-02  3.2643D-02 -2.0077D-02  3.1855D-02
+     -9.4371D-02 -2.3176D-02  5.6654D-02 -4.9212D-02 -1.5915D-01 -4.9206D-02
+     -4.5811D-02 -6.1364D-02  1.3386D-01  2.3357D-01  3.7933D-02 -1.5778D-01
+     -1.9177D-01 -1.5423D-01  2.6234D-01  6.8634D-02  1.5786D-02 -6.2344D-02
+     -5.8467D-02  1.0237D-01  2.1089D-01  1.5260D-01 -9.4936D-02 -6.5159D-02
+      5.2439D-02  2.8123D-02  8.3826D-02 -1.4083D-01  3.4829D-02  2.2399D-01
+      2.9973D+00
+  F =   50818.007759664259
+
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT
